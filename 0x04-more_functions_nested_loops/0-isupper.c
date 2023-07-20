@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _isupper - checks for upperclass letter
+ * _isupper - checks for upperclass letter
  * @c: Letter to be checked
  * Return: 1 if c is upperclass otherwise 0
  */
